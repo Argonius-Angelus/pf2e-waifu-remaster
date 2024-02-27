@@ -2,10 +2,12 @@
   "id": "pf2e-waifu-remaster",
   "title": "PF2e Waifu Playtest (Remaster Version)",
   "description": "This is the compendium for the PF2e Waifu Handbook content.",
-  "url": "https://github.com/ExampleRepo/PF2e-Example",
+  "url": "https://github.com/Argonius-Angelus/pf2e-waifu-remaster",
+  "manifest":"https://github.com/Argonius-Angelus/pf2e-waifu-remaster/edit/main/module.json",
+  "download":""
   "version": "1.0",
   "authors": [
-    {"name": "[REDACTED]"}
+    {"name": "Argonius-Angelus"}
   ],
   "compatibility": {
     "minimum": "10",
