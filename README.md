@@ -20,4 +20,6 @@ Spells
 
 Items
 
+
+
 All info in this module is based off of the document titled WAIFU\_FEB\_TEST\_-\_minute\_pf2e.pdf in the Waifu Handbook discord. If this document is out of date, tell me, but don't point me to the google doc I swear to god.
