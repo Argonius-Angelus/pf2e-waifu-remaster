@@ -10,7 +10,7 @@
     {"name": "Argonius-Angelus"}
   ],
   "compatibility": {
-    "minimum": "10",
+    "minimum": "11",
     "verified": "11"
   },
   "relationships": {
