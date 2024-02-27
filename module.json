@@ -1,0 +1,241 @@
+{
+  "id": "pf2e-waifu-remaster",
+  "title": "PF2e Waifu Playtest (Remaster Version)",
+  "description": "This is the compendium for the PF2e Waifu Handbook content.",
+  "url": "https://github.com/ExampleRepo/PF2e-Example",
+  "version": "1.0",
+  "authors": [
+    {"name": "[REDACTED]"}
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [{
+      "id": "pf2e",
+      "type": "system",
+      "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+      "compatibility": {
+        "minimum": "4.0.6"
+      }
+    }]
+  },
+  "packs": [
+	{
+	  "label": "Waifu Ancestries",
+	  "type": "Item",
+	  "name": "pf2e-waifu-ancestries",
+	  "path": "packs/pf2e-waifu-ancestries.db",
+	  "system": "pf2e",
+	  "package": "pf2e-waifu",
+	  "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+	  "ownership": {
+		"PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	},
+	{
+      "label": "Waifu Ancestry Features",
+      "type": "Item",
+      "name": "pf2e-waifu-class-features",
+      "path": "packs/pf2e-waifu-class-features.db",
+      "system": "pf2e",
+      "package": "pf2e-waifu",
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	},
+	{
+      "label": "Waifu Heritages",
+      "type": "Item",
+      "name": "pf2e-waifu-heritages",
+      "path": "packs/pf2e-waifu-heritages.db",
+      "system": "pf2e",
+      "package": "pf2e-waifu",
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	},
+	{
+      "label": "Waifu Ancestry Feats",
+      "type": "Item",
+      "name": "pf2e-waifu-ancestry-feats",
+      "path": "packs/pf2e-waifu-ancestry-feats.db",
+      "system": "pf2e",
+      "package": "pf2e-waifu",
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	},
+	{
+      "label": "Waifu Class Feats",
+      "type": "Item",
+      "name": "pf2e-waifu-class-feats",
+      "path": "packs/pf2e-waifu-class-feats.db",
+      "system": "pf2e",
+      "package": "pf2e-waifu",
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	},
+	{
+      "label": "Waifu Archetype/Dedication Feats",
+      "type": "Item",
+      "name": "pf2e-waifu-arc-ded-feats",
+      "path": "packs/pf2e-waifu-arc-ded-feats.db",
+      "system": "pf2e",
+      "package": "pf2e-waifu",
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	},
+	{
+      "label": "Waifu Related Actions",
+      "type": "Item",
+      "name": "pf2e-waifu-related-actions",
+      "path": "packs/pf2e-waifu-related-actions.db",
+      "system": "pf2e",
+      "package": "pf2e-waifu",
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	},
+	{
+      "label": "Waifu Ancestry Features",
+      "type": "Item",
+      "name": "pf2e-waifu-ancestry-features",
+      "path": "packs/pf2e-waifu-ancestry-features.db",
+      "system": "pf2e",
+      "package": "pf2e-waifu",
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	},
+	{
+      "label": "Waifu Class Features",
+      "type": "Item",
+      "name": "pf2e-waifu-class-features",
+      "path": "packs/pf2e-waifu-class-features.db",
+      "system": "pf2e",
+      "package": "pf2e-waifu",
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	},
+	{
+      "label": "Waifu Backgrounds",
+      "type": "Item",
+      "name": "pf2e-waifu-backgrounds",
+      "path": "packs/pf2e-waifu-backgrounds.db",
+      "system": "pf2e",
+      "package": "pf2e-waifu",
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	},
+	{
+      "label": "Waifu Spells",
+      "type": "Item",
+      "name": "pf2e-waifu-spells",
+      "path": "packs/pf2e-waifu-spells.db",
+      "system": "pf2e",
+      "package": "pf2e-waifu",
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	},
+	{
+      "label": "Waifu Items",
+      "type": "Item",
+      "name": "pf2e-waifu-items",
+      "path": "packs/pf2e-waifu-items.db",
+      "system": "pf2e",
+      "package": "pf2e-waifu",
+      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+	}	
+  ],
+	"flags": {
+		"pf2e-waifu-remaster": {
+			"pf2e-homebrew": {
+				"baseWeapons": {
+					"nashi-bomblobber": "Nashi Bomblobber",
+					"nashi-flamebelcher": "Nashi Flamebelcher"
+				},
+				"creatureTraits": {
+					"divine-dragon": "Shinryujin",
+					"lamia": "Lamia",
+					"nekomata": "Nekomata",
+					"okami": "Okami",
+					"sand-elf": "Sand Elf",
+					"yurei": "Yurei",
+					"zenko": "Zenko"
+				},
+				"damageTypes": {
+					"radiation": {
+					"label": "Radiation - TEST",
+					"category": "energy",
+					"icon": "fa-radiation"
+					}
+				},
+				"equipmentTraits": {
+					"body-paint": {
+					"label": "Body Paint - TEST",
+					"description": "<p>A body paint is...</p><p>Second Paragraph...</p>"
+					},
+					"cartridge": {
+					"label": "Cartridge",
+					"description": "Alchemical cartridges are..."
+					}
+				},
+				"featTraits": {
+					"divine-dragon": "Shinryujin",
+					"lamia": "Lamia",
+					"nekomata": "Nekomata",
+					"nymph": "Nymph",
+					"okami": "Okami",
+					"sand-elf": "Sand Elf",
+					"yurei": "Yurei",
+					"zenko": "Zenko"
+				},
+				"spellTraits": {
+					"shoujo": "Shoujo"
+				},
+				"weaponTraits": {
+					"capacity-2": {
+					"label": "Capacity 2",
+					"description": "PF2E.TraitDescriptionCapacity"
+					},
+					"return": {
+					"label": "Return",
+					"description": "A weapon with this trait..."
+					}
+				}
+			}
+		}
+	}
+}

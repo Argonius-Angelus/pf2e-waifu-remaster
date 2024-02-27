@@ -1,0 +1,7 @@
+2024/02/27-13:21:18.332 1dac Recovering log #15
+2024/02/27-13:21:18.378 1dac Delete type=0 #15
+2024/02/27-13:21:18.378 1dac Delete type=3 #14
+2024/02/27-15:17:41.496 5ce8 Level-0 table #19: started
+2024/02/27-15:17:41.515 5ce8 Level-0 table #19: 14253 bytes OK
+2024/02/27-15:17:41.526 5ce8 Delete type=0 #17
+2024/02/27-15:17:41.576 5ce8 Manual compaction at level-0 from '!items!0s2u50v4W1ZaKTwr' @ 72057594037927935 : 1 .. '!items!ya2hyaMrv71bjVX7' @ 0 : 0; will stop at (end)
