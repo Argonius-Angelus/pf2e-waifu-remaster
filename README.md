@@ -3,11 +3,19 @@ This is a Foundry compendium module for the PF2e content of the [Complete Waifu 
 This is very much still a Work in Progress.
 
 Current Progress:
+
 ~~Base Ancestries~~
+
 ~~Backgrounds~~
+
 Ancestry Feats (Lamia, Nekomata, Nymph, Okami, Shinryujin, Yurei, Zenko)
+
 Class Options
+
 Class Feats
+
 Archetypes/Dedications
+
 Spells
+
 Items
