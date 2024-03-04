@@ -3,7 +3,7 @@
   "title": "PF2e Waifu Playtest (Remaster Version)",
   "description": "This is the compendium for the PF2e Waifu Handbook content.",
   "url": "https://github.com/Argonius-Angelus/pf2e-waifu-remaster",
-  "manifest":"https://raw.github.com/Argonius-Angelus/pf2e-waifu-remaster/main/module.json",
+  "manifest":"https://raw.githubusercontent.com/Argonius-Angelus/pf2e-waifu-remaster/main/module.json",
   "download":"https://github.com/Argonius-Angelus/pf2e-waifu-remaster/archive/W0.2.zip",
   "version": "1.0",
   "authors": [
@@ -34,19 +34,6 @@
 	  "banner": "systems/pf2e/assets/compendium-banner/red.webp",
 	  "ownership": {
 		"PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-	},
-	{
-      "label": "Waifu Ancestry Features",
-      "type": "Item",
-      "name": "pf2e-waifu-class-features",
-      "path": "packs/pf2e-waifu-class-features.db",
-      "system": "pf2e",
-      "package": "pf2e-waifu",
-      "banner": "systems/pf2e/assets/compendium-banner/red.webp",
-      "ownership": {
-        "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
 	},
